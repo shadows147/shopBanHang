@@ -1,0 +1,12 @@
+@for (itemCart of this.productService.cartList; track itemCart.id) {
+  <div class="cart-container">
+
+      <img src="{{itemCart.image}}" alt="{{itemCart.name}}" />
+      <div class="cart-info">
+        <h3>{{itemCart.name}}</h3>
+        <p>{{itemCart.price | currency:'VND':'symbol':'1.0-0'}}</p>
+        <p>Quantity: {{itemCart.quantity}}</p>
+      </div>
+    </div>
+
+}
