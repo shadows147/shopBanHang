@@ -7,9 +7,7 @@
       </mat-card-header>
       <img mat-card-image src="{{product.image}}" alt="{{product.name}}">
       <mat-card-content>
-        <p>
-          {{product.price}}
-        </p>
+        <p>Giá tiền:{{product.price}}đ</p>
       </mat-card-content>
       <mat-card-actions>
         <button mat-button (click)="$event.stopPropagation();addToCart(product.id)">ADD</button>
