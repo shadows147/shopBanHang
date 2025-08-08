@@ -54,6 +54,48 @@ export class ProductService {
       image: 'https://4menshop.com/cache/image/300x400/images/thumbs/2025/08/quan-short-jean-theu-logo-tron-4m-premium-form-straight-qs075_2_small-19354.jpg',
       price: 149000,
       quantity: 0,
+    },
+    {
+      id: 7,
+      name: 'Quần Short Jean Thêu Logo Tròn 4M Premium Form Straight QS075 Thum 2',
+      image: 'https://4menshop.com/cache/image/300x400/images/thumbs/2025/07/quan-short-jean-qs158_small-19344.jpg',
+      price: 149000,
+      quantity: 0,
+    },
+    {
+      id: 8,
+      name: 'Quần Tây Sidetab 2 Bên Form Regular QT068 Màu Đen Thum 2',
+      image: 'https://4menshop.com/cache/image/300x400/images/thumbs/2025/04/quan-tay-sidetab-2-ben-form-regular-qt068-mau-xam_2_small-19212.jpg',
+      price: 149000,
+      quantity: 0,
+    },
+    {
+      id: 9,
+      name: 'Quần Tây Sidetab 2 Bên Form Regular QT068 Màu Xám',
+      image: 'https://4menshop.com/cache/image/300x400/images/thumbs/2025/04/quan-tay-sidetab-2-ben-form-regular-qt068-mau-trang-kem_small-19211.jpg',
+      price: 149000,
+      quantity: 0,
+    },
+    {
+      id: 10,
+      name: 'Quần Tây Sidetab 2 Bên Form Regular QT068 Màu Trắng Kem Thum 2',
+      image: 'https://4menshop.com/cache/image/300x400/images/thumbs/2025/04/quan-tay-sidetab-2-ben-form-regular-qt068_2_small-19210.jpg',
+      price: 149000,
+      quantity: 0,
+    },
+    {
+      id: 11,
+      name: 'Quần Tây Sidetab 2 Bên Form Regular QT068 Thum 2',
+      image: 'https://4menshop.com/cache/image/300x400/images/thumbs/2025/04/quan-tay-phoi-day-soc-o-tui-sau-form-slimfit-qt066_2_small-19209.jpg',
+      price: 149000,
+      quantity: 0,
+    },
+    {
+      id: 12,
+      name: 'Quần Tây Sidetab Hai Bên Slimfit Trơn QT067 Màu Đen Thum 2',
+      image: 'https://4menshop.com/cache/image/300x400/images/thumbs/2025/03/quan-tay-sidetab-hai-ben-slimfit-tron-qt067-mau-den_2_small-19147.jpg',
+      price: 149000,
+      quantity: 0,
     }
   ]
 

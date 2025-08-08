@@ -18,7 +18,7 @@ export class DetailComponent {
   ) {
     let {id} = this.activateRoute.snapshot.params;
     console.log(id);
-    this.productDetail= this.productService.getDetailProduct(id);
+    this.productDetail= this.productService.getDetailProduct(+id);
   }
 
 }
